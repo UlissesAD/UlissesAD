@@ -7,12 +7,13 @@ This is my first repository, I will update this ReadMe as I Learn more
 
 
 ### :gear:Skills
-
-Java, C, C#, Adobe Photoshop and Illustrator , English - Advanced
+HTML, CSS and C
+Adobe Photoshop and Illustrator
+English - Advanced
 
 ### :books: Currently learning
 
-SQL, HTML, CSS, JavaScript
+SQL and JavaScript
 
 ### :handshake: Contact
 
