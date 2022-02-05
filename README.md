@@ -7,8 +7,9 @@ This is my first repository, I will update this ReadMe as I Learn more
 
 
 ### :gear:Skills
-HTML, CSS and C
+HTML, CSS , C,
 Adobe Photoshop and Illustrator
+
 English - Advanced
 
 ### :books: Currently learning
