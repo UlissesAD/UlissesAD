@@ -2,7 +2,8 @@
 
 College Student and Digital Innovation One (DIO) Student
 
-This is my first repository, I will update this ReadMe as I Learn more
+This is my first repository, I will update this ReadMe as I Learn more.
+Currently i'm focussed in learn Web Development, but i like be a programmer in general
 
 
 ### :gear:Skills
