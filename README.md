@@ -4,7 +4,8 @@ College Student and Digital Innovation One (DIO) Student
 
 last update 20/09/2022.
 
-here i submit almost all of my projects, but the most important are starred :star:
+here i submit almost all of my projects, but the most important are starred 
+:star: https://github.com/UlissesAD?tab=stars
 
 i'm focussed in learn Web Development and software development, but i like to program in general
 
