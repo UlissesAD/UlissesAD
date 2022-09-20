@@ -2,18 +2,21 @@
 
 College Student and Digital Innovation One (DIO) Student
 
-This is my first repository, I will update this ReadMe as I Learn more.
-Currently i'm focussed in learn Web Development, but i like be a programmer in general
-
+last update 20/09/2022.
+i'm focussed in learn Web Development and software development, but i like to program in general
 
 ### :gear:Skills
-HTML, CSS , JavaScript
-
+Languages:
+HTML, CSS , JavaScript, Python
+technology:
+React, Unity, Expo,
+others:
 English - Advanced
 
 ### :books: Currently learning
 
-Python, C# and Unity Engine
+learning advanced C# 
+software engineering
 
 ### :handshake: Contact
 
