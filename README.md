@@ -12,7 +12,7 @@ HTML, CSS , JavaScript, Python
 
 technology:
 
-React, Unity, Expo,
+React, Unity, Expo
 
 others:
 
