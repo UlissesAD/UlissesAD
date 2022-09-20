@@ -7,10 +7,15 @@ i'm focussed in learn Web Development and software development, but i like to pr
 
 ### :gear:Skills
 Languages:
+
 HTML, CSS , JavaScript, Python
+
 technology:
+
 React, Unity, Expo,
+
 others:
+
 English - Advanced
 
 ### :books: Currently learning
