@@ -4,7 +4,7 @@
 
 <ul>
 <li>:books: College Student and Digital Innovation One (DIO) Student</li>
-<li>:gear: Currently learning software engineering and </li>
+<li>:gear: Currently learning software engineering and C# </li>
 <li>:dart: focussed in Web and Software Development, but i like to program in general</li>
 </ul>
 
