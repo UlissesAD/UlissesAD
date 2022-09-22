@@ -9,7 +9,7 @@
 </ul>
 
 ![UlissesAD GitHub stats](https://github-readme-stats.vercel.app/api?username=UlissesAD&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UlissesAD&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UlissesAD&theme=radical)
 
 
 ### :handshake: Contact
