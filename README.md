@@ -8,7 +8,7 @@
 <li>:dart: focussed in Web and Software Development, but i like to program in general</li>
 </ul>
 
-![UlissesAD GitHub stats](https://github-readme-stats.vercel.app/api?username=UlissesAD&show_icons=true&theme=radical | width=100)
+![UlissesAD GitHub stats](https://github-readme-stats.vercel.app/api?username=UlissesAD&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UlissesAD&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
