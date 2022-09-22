@@ -8,6 +8,8 @@
 <li>:dart: focussed in Web and Software Development, but i like to program in general</li>
 </ul>
 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UlissesAD&hide=javascript,css,scss,html&theme=tokyonight)
+
 ### :handshake: Contact
 **LinkedIn:** www.linkedin.com/in/ulisses-auresco-damasio-303b93225
 
