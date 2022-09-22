@@ -9,10 +9,10 @@
 </ul>
 
 
-<a href="https://github.com/UlissesAD/github-readme-stats">
+<a >
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UlissesAD&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/UlissesAD/convoychat">
+<a >
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UlissesAD&repo=convoychat" />
 </a>
 
