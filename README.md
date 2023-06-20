@@ -2,11 +2,6 @@
    Hi!! I'm Ulisses 
 </h1>
 
-<ul>
-<li>:books: College Student and Digital Innovation One (DIO) Student</li>
-<li>:gear: Currently learning software engineering </li>
-<li>:dart: focussed in Web and Software Development, but i like to program in general</li>
-</ul>
 <br>  
 <div align="center">
   <a href="https://github.com/UlissesAD">
